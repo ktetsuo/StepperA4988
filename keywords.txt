@@ -6,7 +6,7 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-Stepper	KEYWORD1
+StepperA4988	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
